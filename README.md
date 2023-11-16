@@ -1,4 +1,4 @@
-# Ccount AWS Public IPv4
+# Count AWS Public IPv4
 
 ## AWS will charge for public IPv4 in 2024, how many IPv4 do you have?
 
