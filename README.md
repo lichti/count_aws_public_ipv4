@@ -2,6 +2,10 @@
 
 ## AWS will charge for public IPv4 in 2024, how many IPv4 do you have?
 
+- [The Register - AWS: IPv4 addresses cost too much, so you’re going to pay](https://www.theregister.com/2023/07/31/aws_says_ipv4_addresses_cost/)
+- [AWS News Blog – AWS Public IPv4 Address Charge + Public IP Insights
+](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
+
 ## How to run?
 
 - git glone git@github.com:lichti/count_aws_public_ipv4.git
